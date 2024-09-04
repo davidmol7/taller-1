@@ -9,7 +9,7 @@
 <body>
 	<div>Nombre: David Molina</div>
 	<div>Semestre: Cuarto semestre</div>
-	<div></div>
+	<div>Hobbies: Jugar videojuegos y salir con amigos</div>
 	<div></div>
 </body>
 </html>
